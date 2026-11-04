@@ -1,0 +1,19 @@
+# Core numeric data and preprocessing
+numpy>=1.26,<3
+pandas>=2.0,<4
+scikit-learn>=1.4,<2
+joblib>=1.3,<2
+
+# Deep learning and classification metrics
+torch>=2.2,<3
+torchmetrics>=1.3,<2
+
+# EDA and evaluation plots
+matplotlib>=3.8,<4
+seaborn>=0.13,<1
+
+# UCI Dry Bean dataset retrieval
+ucimlrepo>=0.0.7,<1
+
+# Notebook environment
+jupyterlab>=4,<5
